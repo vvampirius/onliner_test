@@ -1,0 +1,4 @@
+#
+name = Бутерброд 1
+ingredients = 0 => 20, 1 => 50, 2 => 5
+preparation = 3
